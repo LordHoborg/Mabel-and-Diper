@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	line-height: 40px;
+
+}
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Indie Flower', cursive;
+}
+header h1{
+	color: white;
+	font-size: 40px;
+}
+header img{
+    border-radius: 250px;
+    width: 300px;
+    border: 15px solid white;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 100%;
+}
+p{
+	font-size: 20px
+}
+a{
+	color: red;
+}
+a:hover{
+	background-color: purple;
+	color: white;
+}
+
+
